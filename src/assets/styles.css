@@ -8,7 +8,7 @@
   align-items: center;
   padding: 20px 40px;
   margin: 0 auto;
-  height: 200px;
+  height: 300px;
 
   max-width: 1200px;
 }
@@ -16,4 +16,23 @@
 .header-content h1{
   color: #fff;
   font-size: 54px;
+  margin-top: -100px!important;
+}
+#buttonModal{
+  margin-top: -100px;
+}
+
+table{
+  width: 80%!important;
+  margin-top: 10px!important;
+  margin-left: 110px!important;
+  font-family: 'Source Serif Pro', serif;
+}
+.cards{
+  margin-left: 20px;
+  margin-right: 10px;
+  margin-top: -50px;
+  text-align: center;
+  font-family: 'Source Serif Pro', serif;
+  font-size: 30px;
 }
